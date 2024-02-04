@@ -88,6 +88,34 @@ import TheWelcome from './components/TheWelcome.vue'
       </div>
     </main>
 
+    <!-- footer -->
+    <!-- Remove the container if you want to extend the Footer to full width. -->
+    <!-- <div class="container my-5"> -->
+      <footer class="text-center text-white" style="background-color: #f1f1f1;">
+      <div class="container pt-4">
+        <section class="mb-4">
+          <!-- Facebook -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="https://www.facebook.com/hummingcattery/"
+            role="button"
+            data-mdb-ripple-color="dark">
+            <img src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\components\icons\Facebook_icon.svg.png" alt="...">
+          </a>
+
+          <!-- Instagram -->
+          <a
+            class="btn btn-link btn-floating btn-lg text-dark m-1"
+            href="https://www.instagram.com/hummingcattery/"
+            role="button"
+            data-mdb-ripple-color="dark">
+            <img src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\components\icons\Instagram_Glyph_Gradient_RGB_logo.svg.png" alt="...">
+          </a>
+        </section>
+      </div>
+      </footer>
+    <!-- </div> -->
+
   </div>
 </template>
 
