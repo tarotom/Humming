@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
     <div class="weather-component">
         <h1>Weather forecast</h1>
         <p>This component demonstrates fetching data from the server.</p>
@@ -103,4 +103,4 @@ table {
     margin-left: auto;
     margin-right: auto;
 }
-</style>
+</style> -->
