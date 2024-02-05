@@ -1,6 +1,5 @@
 <template>
     <div>
-        <!-- <h1>TEST!</h1> -->
         <div>
             <p>
                 <p>SC Zhamanen Harlequin, DVM - Harppu</p>

@@ -24,8 +24,8 @@
                       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Kissat</a>
                       <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           <!-- <li><a class="dropdown-item" href="#">Naaraat</a></li> -->
-                          <router-link to="/mollies">Naaraat</router-link>
-                          <li><a class="dropdown-item" href="#">Urokset</a></li>
+                          <li><router-link to="/mollies">Naaraat</router-link></li>
+                          <li><router-link to="/tomcats">Urokset</router-link></li>
                           <li><a class="dropdown-item" href="#">Kastraatit</a></li>
                           <li><a class="dropdown-item" href="#">Muistoissa</a></li>
                       </ul>
