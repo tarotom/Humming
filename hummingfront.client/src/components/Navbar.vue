@@ -18,7 +18,7 @@
                     <router-link to="/">Etusivu</router-link>
                   </li>
                   <li class="nav-item">
-                      <a class="nav-link" href="#">Uutiset</a>
+                    <router-link to="/News">Uutiset</router-link>
                   </li>
                   <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Kissat</a>
