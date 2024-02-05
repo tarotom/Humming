@@ -31,7 +31,7 @@
                       </ul>
                   </li>
                   <li class="nav-item">
-                      <a class="nav-link" href="#">Pentukori</a>
+                    <router-link to="/KittenBasket">Pentukori</router-link>
                   </li>
                   <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Pentueet</a>

@@ -5,6 +5,7 @@ import Tomcats from "@/views/Tomcats.vue"
 import Castrates from "@/views/Castrates.vue"
 import InMemoriam from "@/views/InMemoriam.vue"
 import News from "@/views/News.vue"
+import KittenBasket from "@/views/KittenBasket.vue"
 
 const routes = [
   {
@@ -36,6 +37,11 @@ const routes = [
     path: "/News",
     name: "News",
     component: News,
+  },
+  {
+    path: "/KittenBasket",
+    name: "KittenBasket",
+    component: KittenBasket,
   },
 ];
 
