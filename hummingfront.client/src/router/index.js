@@ -7,6 +7,7 @@ import InMemoriam from "@/views/InMemoriam.vue"
 import News from "@/views/News.vue"
 import KittenBasket from "@/views/KittenBasket.vue"
 import KittenInfo from "@/views/KittenInfo.vue"
+import Breeder from "@/views/Breeder.vue"
 
 const routes = [
   {
@@ -48,6 +49,11 @@ const routes = [
     path: "/KittenInfo",
     name: "KittenInfo",
     component: KittenInfo,
+  },
+  {
+    path: "/Breeder",
+    name: "Breeder",
+    component: Breeder,
   },
 ];
 
