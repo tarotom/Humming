@@ -24,10 +24,10 @@
                       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Kissat</a>
                       <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           <!-- <li><a class="dropdown-item" href="#">Naaraat</a></li> -->
-                          <li><router-link to="/mollies">Naaraat</router-link></li>
-                          <li><router-link to="/tomcats">Urokset</router-link></li>
-                          <li><router-link to="/castrates">Kastraatit</router-link></li>
-                          <li><a class="dropdown-item" href="#">Muistoissa</a></li>
+                          <li><router-link to="/Mollies">Naaraat</router-link></li>
+                          <li><router-link to="/Tomcats">Urokset</router-link></li>
+                          <li><router-link to="/Castrates">Kastraatit</router-link></li>
+                          <li><router-link to="/InMemoriam">Muistoissa</router-link></li>
                       </ul>
                   </li>
                   <li class="nav-item">

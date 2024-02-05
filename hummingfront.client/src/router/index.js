@@ -3,6 +3,7 @@ import Home from "@/views/Home.vue";
 import Mollies from "@/views/Mollies.vue"
 import Tomcats from "@/views/Tomcats.vue"
 import Castrates from "@/views/Castrates.vue"
+import InMemoriam from "@/views/InMemoriam.vue"
 
 const routes = [
   {
@@ -11,19 +12,24 @@ const routes = [
     component: Home,
   },
   {
-    path: "/mollies",
+    path: "/Mollies",
     name: "Mollies",
     component: Mollies,
   },
   {
-    path: "/tomcats",
+    path: "/Tomcats",
     name: "Tomcats",
     component: Tomcats,
   },
   {
-    path: "/castrates",
+    path: "/Castrates",
     name: "Castrates",
     component: Castrates,
+  },
+  {
+    path: "/InMemoriam",
+    name: "InMemoriam",
+    component: InMemoriam,
   },
 ];
 
