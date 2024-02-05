@@ -26,7 +26,7 @@
                           <!-- <li><a class="dropdown-item" href="#">Naaraat</a></li> -->
                           <li><router-link to="/mollies">Naaraat</router-link></li>
                           <li><router-link to="/tomcats">Urokset</router-link></li>
-                          <li><a class="dropdown-item" href="#">Kastraatit</a></li>
+                          <li><router-link to="/castrates">Kastraatit</router-link></li>
                           <li><a class="dropdown-item" href="#">Muistoissa</a></li>
                       </ul>
                   </li>

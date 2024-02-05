@@ -2,6 +2,7 @@ import { createWebHistory, createRouter } from "vue-router";
 // import Home from "./App.vue";
 import Mollies from "@/views/Mollies.vue"
 import Tomcats from "@/views/Tomcats.vue"
+import Castrates from "@/views/Castrates.vue"
 
 const routes = [
 //   {
@@ -18,6 +19,11 @@ const routes = [
     path: "/tomcats",
     name: "Tomcats",
     component: Tomcats,
+  },
+  {
+    path: "/castrates",
+    name: "Castrates",
+    component: Castrates,
   },
 ];
 
