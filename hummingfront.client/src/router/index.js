@@ -6,6 +6,7 @@ import Castrates from "@/views/Castrates.vue"
 import InMemoriam from "@/views/InMemoriam.vue"
 import News from "@/views/News.vue"
 import KittenBasket from "@/views/KittenBasket.vue"
+import KittenInfo from "@/views/KittenInfo.vue"
 
 const routes = [
   {
@@ -42,6 +43,11 @@ const routes = [
     path: "/KittenBasket",
     name: "KittenBasket",
     component: KittenBasket,
+  },
+  {
+    path: "/KittenInfo",
+    name: "KittenInfo",
+    component: KittenInfo,
   },
 ];
 

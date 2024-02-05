@@ -47,7 +47,7 @@
                       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Kissala</a>
                       <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                           <li><a class="dropdown-item" href="#">Kasvattaja</a></li>
-                          <li><a class="dropdown-item" href="#">Pentu-info</a></li>
+                          <li><router-link to="/KittenInfo">Pentu-info</router-link></li>
                       </ul>
                   </li>
               </ul>
