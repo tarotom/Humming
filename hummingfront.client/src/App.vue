@@ -7,10 +7,6 @@ import Footer from './components/Footer.vue'
   <div>
     <Navbar></Navbar>
     <div>
-      <header>
-        <h1>Humming hummings</h1>
-      </header>
-
       <!-- carousel => commented out, because it causes a lot of trouble -->
       <!-- <main class="carouselContent">
         <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">

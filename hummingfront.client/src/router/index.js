@@ -1,15 +1,15 @@
 import { createWebHistory, createRouter } from "vue-router";
-// import Home from "./App.vue";
+import Home from "@/views/Home.vue";
 import Mollies from "@/views/Mollies.vue"
 import Tomcats from "@/views/Tomcats.vue"
 import Castrates from "@/views/Castrates.vue"
 
 const routes = [
-//   {
-//     path: "/",
-//     name: "Home",
-//     component: Home,
-//   },
+  {
+    path: "/",
+    name: "Home",
+    component: Home,
+  },
   {
     path: "/mollies",
     name: "Mollies",
