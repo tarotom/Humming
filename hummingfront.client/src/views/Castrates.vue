@@ -2,7 +2,8 @@
     <div>
         <div>
             <p>
-                <p>SC Recknagel Tairapänks, DVM - Halka</p>
+                <p>Halka</p>
+                <p>SC Recknagel Tairapänks, DVM</p>
                 <a title="SC Recknagel Tairapänks, DVM" href="https://web.archive.org/web/20130401081104/http://humming.nettisivu.org/naaraat/sc-recknagel-tairapanks-dvm/">
                     <img class="alignleft wp-image-17" title="SC FI*Recknagel Tairapänks" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\assets\Images\20230901_192112.jpg" alt="Halka" width="273" height="373">
                 </a>
@@ -29,7 +30,7 @@
 
         <div>
             <p>
-                <p>PengPeng :)</p>
+                <p>Hekla :)</p>
                 <a title="" href="">
                     <img class="alignleft wp-image-17" title="" src="C:\Users\Tomi\Coding\FullStack\HummingFront\hummingfront.client\src\assets\Images\20230721_011959.jpg" alt="Hekla" width="273" height="373">
                 </a>
